@@ -27,7 +27,7 @@
     "firebase/php-jwt": "6.11.1"
   },
   "require-dev": {
-    "overtrue/phplint": "9.5.6",
+    "overtrue/phplint": "9.6.2",
     "squizlabs/php_codesniffer": "3.11.3"
   }
 }

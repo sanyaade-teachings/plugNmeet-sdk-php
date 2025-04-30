@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5174637b8849be544740724fbedea276",
+    "content-hash": "682ac3a1915625531a044e2c47c545d7",
     "packages": [
         {
             "name": "brick/math",
@@ -314,16 +314,16 @@
     "packages-dev": [
         {
             "name": "overtrue/phplint",
-            "version": "9.5.6",
+            "version": "9.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/overtrue/phplint.git",
-                "reference": "3fdc395a816d1401091062c7a3bfb31252aed6c5"
+                "reference": "e2ebdbac93fa6ffe45d724e350f77df34c1f8fb4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/overtrue/phplint/zipball/3fdc395a816d1401091062c7a3bfb31252aed6c5",
-                "reference": "3fdc395a816d1401091062c7a3bfb31252aed6c5",
+                "url": "https://api.github.com/repos/overtrue/phplint/zipball/e2ebdbac93fa6ffe45d724e350f77df34c1f8fb4",
+                "reference": "e2ebdbac93fa6ffe45d724e350f77df34c1f8fb4",
                 "shasum": ""
             },
             "require": {
@@ -363,7 +363,7 @@
                     "target-directory": "vendor-bin"
                 },
                 "branch-alias": {
-                    "dev-main": "9.5.x-dev"
+                    "dev-main": "9.6.x-dev"
                 }
             },
             "autoload": {
@@ -395,7 +395,7 @@
             ],
             "support": {
                 "issues": "https://github.com/overtrue/phplint/issues",
-                "source": "https://github.com/overtrue/phplint/tree/9.5.6"
+                "source": "https://github.com/overtrue/phplint/tree/9.6.2"
             },
             "funding": [
                 {
@@ -403,7 +403,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-15T05:41:15+00:00"
+            "time": "2025-04-10T13:12:51+00:00"
         },
         {
             "name": "psr/cache",
